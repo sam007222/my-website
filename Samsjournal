@@ -1,0 +1,27 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Welcome to my website, where I share cool stuff!">
+  <title>My Website</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #4CAF50; /* Nice green for the heading */
+    }
+    p {
+      color: #333; /* Dark text for readability */
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my website. Welcome to the internet!</p>
+</body>
+</html>
